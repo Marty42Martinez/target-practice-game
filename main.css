@@ -3,4 +3,24 @@
     border: 2px solid black;
     height: 400px;
     width: 400px;
+    margin: 5px;
+}
+#form-section{
+    display: block;
+    border: 2px solid black;
+    height: 200px;
+    width: 400px;
+    margin: 5px;
+
+}
+.target-button{
+    background: blueviolet;
+    position: relative;
+    border-radius : 100%;
+    height: 40px;
+    width: 40px;
+}
+.button{
+    margin: 5px;
+    border-radius: 3px 5px 5px 3px;
 }
